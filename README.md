@@ -1,7 +1,7 @@
 # Export-Automation
 
-Files:
-../Downloads/Adobe/
+Files:  
+../Downloads/Adobe/  
 ├── 01 - Adobe Exports/ # All files with the author "Adobe"  
 │   └── Adobe ART/ # AND filename contains "ART"  
 │     └── Adobe ART113/ # AND filename contains "ART113"  
