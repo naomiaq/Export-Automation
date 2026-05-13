@@ -1,5 +1,6 @@
 # Export-Automation
 
+```
 Files:  
 ../Downloads/Adobe/  
 ├── 01 - Adobe Exports/ # All files with the author "Adobe"  
@@ -12,4 +13,5 @@ Files:
 │   └── Adobe FSA/ # AND filename contains "FSA"  
 │   └── Adobe YFC/ # AND filenamecontains "YFC"  
 ├── 02 - Adobe Stock/ # Filename contains "AdobeStock"  
-├── Color Hunt/ Filename contains "Color Hunt"  
+├── Color Hunt/ Filename contains "Color Hunt"
+```
